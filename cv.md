@@ -17,12 +17,6 @@
 ## Experience
  
 *Project*: application for the insurance agents that allowed to automate the process of sending emails to the customers  
-
-## Education 
- 	 	 	 	 	        
-*Belorussian State Economic University*   
-Department of Marketing and Economics (2007 — 2012)  
-Bachelor's Degree in Economics & Marketing
  
 ## English
  
