@@ -24,10 +24,10 @@
 Department of Marketing and Economics (2007 — 2012)  
 Bachelor's Degree in Economics & Marketing  	  
 *Courses:*  
-* [Lynda](https://www.lynda.com/)  
+* Lynda.com (https://www.lynda.com/)  
   * Object-Oriented Programming with C#  
   * Learning the JavaScript Language  
-* [Udemy](https://www.udemy.com/)  
+* Udemy.com (https://www.udemy.com/)  
   * Entity Framework in Depth: The Complete Guide  
   * C# Advanced Topics: Prepare for Technical Interviews  
  
