@@ -20,16 +20,9 @@
 
 ## Education 
  	 	 	 	 	        
-*Belorussian State Economic University* 
+*Belorussian State Economic University*   
 Department of Marketing and Economics (2007 — 2012)  
-Bachelor's Degree in Economics & Marketing  	  
-*Courses:*  
-* Lynda.com   
-  * Object-Oriented Programming with C#  
-  * Learning the JavaScript Language  
-* Udemy.com   
-  * Entity Framework in Depth: The Complete Guide  
-  * C# Advanced Topics: Prepare for Technical Interviews  
+Bachelor's Degree in Economics & Marketing
  
 ## English
  
