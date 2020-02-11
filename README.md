@@ -1,1 +1,1 @@
-# rsschool-cv
+Please see my Resume using this link https://tanya-kh.github.io/rsschool-cv/cv
