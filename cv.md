@@ -19,7 +19,14 @@
 *Project*: application for the insurance agents that allowed to automate the process of sending emails to the customers  
 
 ## Education
-2007-2012 BSEU - Bachelor's degree in Economics and Marketing
+2007-2012 BSEU - Bachelor's degree in Economics and Marketing  
+*Courses:*
+* [Lynda](https://www.lynda.com/)  
+  * Object-Oriented Programming with C#  
+  * Learning the JavaScript Language  
+* [Udemy](https://www.udemy.com/)  
+  * Entity Framework in Depth: The Complete Guide  
+  * C# Advanced Topics: Prepare for Technical Interviews  
 
  
 ## English
