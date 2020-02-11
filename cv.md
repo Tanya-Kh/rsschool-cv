@@ -14,5 +14,9 @@
 *Software*: Visual Studio .NET  
 *Version Control*: GIT, TFS
 
+## Experience
+ 
+*Project*: application for the insurance agents that allowed to automate the process of sending emails to the customers  
+
 
 
