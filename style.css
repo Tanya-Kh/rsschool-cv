@@ -1,0 +1,31 @@
+.main {
+    background-color: paleturquoise;
+    max-width: 1024px;
+    margin: auto;
+    border: 1px solid darkcyan;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    color: darkcyan;
+}
+
+.heading {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.contact-list {
+    list-style-type: circle;
+}
+
+.image {
+    float: right;
+    width: 28%;
+    border: 1px solid darkcyan;
+    border-radius: 5%;
+}
